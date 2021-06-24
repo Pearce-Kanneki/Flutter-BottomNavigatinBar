@@ -1,4 +1,4 @@
-# bottom_navigation_bar
+# bottomNavigationBar
 
 A new Flutter project.
 
